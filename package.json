@@ -1,0 +1,17 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "hw1 demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lawrence Luo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.6",
+    "express": "*",
+    "jade": "^1.11.0"
+  }
+}
